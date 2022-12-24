@@ -9,10 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueLion&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/EnriqueLion)
 
- ## Wakatime Stats
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EnriqueLion)](https://github.com/EnriqueLion)
- 
 <!--
 **EnriqueLion/EnriqueLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
