@@ -1,7 +1,12 @@
-### Howdy! I'm Enrique 💻🐧
+### Howdy! I'm Enrique 🐧
 
-A fanatic of  Linux and Operating Systems.
-Working in Web Development 
+> <p > A fanatic of  Linux and Operating Systems. <br />
+> Working in Web Development. </p>
+
+ ## My Github Stats
+
+[![Enrique GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueLion&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/EnriqueLion)
+
 
 <!--
 **EnriqueLion/EnriqueLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
