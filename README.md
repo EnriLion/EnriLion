@@ -1,5 +1,5 @@
-### Hi there 👋
-Hello guys I'm Enrique Lion and I like Linux and Operating Systems.
+### Howdy I'm Enrique 💻
+A fanatic of  Linux and Operating Systems.
 Working in Web Development 
 
 <!--
