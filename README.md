@@ -1,4 +1,5 @@
-### Howdy I'm Enrique 💻
+### Howdy! I'm Enrique 💻🐧
+
 A fanatic of  Linux and Operating Systems.
 Working in Web Development 
 
