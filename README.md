@@ -1,5 +1,6 @@
 ### Hi there 👋
-Hello guys I'm Enrique Lion and I like Linux and Operating Systems and I'm currently a student.
+Hello guys I'm Enrique Lion and I like Linux and Operating Systems.
+Working in Web Development 
 
 <!--
 **EnriqueLion/EnriqueLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
