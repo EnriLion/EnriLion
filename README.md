@@ -5,9 +5,9 @@
 
  ## My Github Stats
 
-[![Enrique GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueLion&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/EnriqueLion)
+[![Enrique GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriLion&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/EnriqueLion)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueLion&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/EnriqueLion)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriLion&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/EnriqueLion)
 
 <!--
 **EnriqueLion/EnriqueLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
