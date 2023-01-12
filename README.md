@@ -5,7 +5,7 @@
 
  ## My Github Stats
 
-[![EnriLion GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriLion&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/EnriLion)
+[![Enrique GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriLion&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/EnriLion)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriLion&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/EnriLion)
 
