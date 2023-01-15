@@ -7,6 +7,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnriLion&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
+ ## Programming Languages stack
+ - HTML, CSS and JavaScript
+ ## Scripting stack
+ - Bash Scripting
+ - PowerShell Scripting
 
 <!--
 **EnriqueLion/EnriqueLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
