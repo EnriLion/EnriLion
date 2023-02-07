@@ -6,8 +6,8 @@
  ## My Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnriLion&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
-[![EnriLion GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriLion&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriLion&langs_count=8)](https://github.com/EnriLion/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=EnriLion&show_icons=true&theme=radical)
+[![](https://github.com/EnriLion/github-readme-stats)
 
  ## Programming Languages stack
  - HTML, CSS and JavaScript
