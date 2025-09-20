@@ -3,19 +3,19 @@
 > <p > A fanatic of  Linux and Operating Systems. <br />
 > Working in Backend Development. </p>
 
- ## Programming Languages  && Scripting stack 
+ ## Programming Languages & More
  
- - Backend
+ - Backend 
 <p align="left">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=java,spring,py,cs,nodejs,flask,expres" />
+   <img src="https://skillicons.dev/icons?i=java,spring,py,cs,nodejs,flask,dotnet"/>
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind"/>
   </a>
 </p>
 
