@@ -8,7 +8,7 @@
  - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,flask,cs,expres" />
+   <img src="https://skillicons.dev/icons?i=java,spring,py,cs,nodejs,flask,expres" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,openshift,firebase,cloudflare" />
   </a>
 </p>
 
