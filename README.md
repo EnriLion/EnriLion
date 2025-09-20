@@ -8,7 +8,7 @@
  - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring,flask,express" />
   </a>
 </p>
 
