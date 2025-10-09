@@ -29,7 +29,7 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,openshift,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,openshift,firebase,cloudflare,gcp" />
   </a>
 </p>
 
