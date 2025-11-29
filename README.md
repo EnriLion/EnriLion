@@ -1,5 +1,5 @@
 > [!CAUTION]
-    > Now I'm in [GitLab](https://gitlab.com/diegoleonc45) if you want to reach out or check my delightful projects.
+> Now I'm in [GitLab](https://gitlab.com/diegoleonc45) if you want to reach out or check my delightful projects.
 > PS: Probably I will make another one
 
 
