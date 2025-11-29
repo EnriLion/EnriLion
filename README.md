@@ -1,5 +1,7 @@
 
-> :warning: **I'm moving to [Gitlab](https://gitlab.com/diegoleonc45) if you want to checkout my new projects there**: Probably I will be back don't worry with another account!
+> [!WARNING]
+> **I'm moving to [Gitlab](https://gitlab.com/diegoleonc45) if you want to checkout my new projects there**: Probably I will be back don't worry with another account!
+
 
 ### Howdy! I'm Enrique 🐧
 
